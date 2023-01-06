@@ -1,0 +1,13 @@
+<aio-config SkinName="1">
+	<background file="AIOSkin_2.png"/>
+	<backgroundfill>
+		<background file="AIOSkinFill_2.png" tabfile="AIOSkinFill_Tab_2.png" bkgstyle="toptile"/>
+	</backgroundfill>
+	<skindetail>
+		<detail file="AIOSkindetail_2.png" tabfile="AIOSkindetail_Tab_2.png" bkgstyle="rightbottomstretch"/>
+	</skindetail>
+	<skinfloat>
+		<float file="" tabfile="" bkgstyle="rightbottomstretch" />
+	</skinfloat>
+	<skindecor file="AIOSkinDecor_2.png"  />
+</aio-config>
